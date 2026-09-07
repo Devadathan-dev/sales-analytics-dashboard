@@ -1,0 +1,21 @@
+Order Date,Region,Category,Product,Sales,Profit,Quantity
+2026-01-05,North,Electronics,Laptop,55000,9000,2
+2026-01-08,South,Furniture,Office Chair,12000,2500,3
+2026-01-10,East,Clothing,Jacket,4000,900,4
+2026-01-12,West,Electronics,Smartphone,30000,7000,5
+2026-01-15,North,Furniture,Desk,18000,3500,2
+2026-01-18,South,Clothing,T-Shirt,2500,600,10
+2026-01-20,East,Electronics,Headphones,5000,1200,6
+2026-01-25,West,Furniture,Bookshelf,15000,2800,2
+2026-02-02,North,Clothing,Jeans,3500,800,5
+2026-02-05,South,Electronics,Tablet,22000,5000,3
+2026-02-08,East,Furniture,Sofa,45000,8500,1
+2026-02-11,West,Clothing,Sneakers,6000,1400,4
+2026-02-15,North,Electronics,Monitor,14000,3000,3
+2026-02-18,South,Furniture,Cabinet,20000,4200,2
+2026-02-20,East,Clothing,Hoodie,3200,700,4
+2026-02-24,West,Electronics,Smartwatch,18000,3800,3
+2026-03-03,North,Furniture,Table,16000,3100,2
+2026-03-06,South,Clothing,Shirt,2800,650,6
+2026-03-09,East,Electronics,Camera,38000,7600,2
+2026-03-12,West,Furniture,Bed,50000,9500,1
